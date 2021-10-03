@@ -2,6 +2,6 @@
 
 👋 Hi, I’m Thomas,
 
-an Electrical Engineer and Ph.D. candidate researching in the intersection of modern control and learning systems.
+I am researching in the intersection of modern control and learning systems towards a Ph.D. as well as developing random helpful software in between.
 
 📫 contact@thomasrudolf.science
