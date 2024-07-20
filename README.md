@@ -4,4 +4,4 @@
 
 I am researching in the intersection of modern control and learning systems towards a Ph.D. as well as developing random helpful software in between.
 
-📫 contact@thomasrudolf.science
+📫 thomas {dot} rudolf {at} kit.edu
